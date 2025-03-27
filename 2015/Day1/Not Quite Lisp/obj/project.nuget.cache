@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhgOWt1o5x0=",
+  "success": true,
+  "projectFilePath": "/home/jose/Documentos/C#/AdventOfCode/Day1/Not Quite Lisp/Not Quite Lisp.csproj",
+  "expectedPackageFiles": [
+    "/home/jose/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
